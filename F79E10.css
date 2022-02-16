@@ -9,6 +9,8 @@ body {
 
 	overflow-x: hidden;
 	overflow-y: scroll;
+
+	background-color: white;
 }
 
 .img {
